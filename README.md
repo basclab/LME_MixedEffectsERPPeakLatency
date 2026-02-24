@@ -1,6 +1,6 @@
 # LME_MixedEffectsERPPeakLatency
 
-This GitHub page contains linear mixed effects model (LME) scripts for analyzing ERP latency to peak amplitude from Mon, Heise, and Bowman (submitted).
+This GitHub page contains linear mixed effects model (LME) scripts for analyzing ERP latency to peak amplitude from Mon, Heise, and Bowman (submitted). See preprint: [https://dx.doi.org/10.2139/ssrn.6233097](https://dx.doi.org/10.2139/ssrn.6233097)
 
 * **Section3_SimulatedData**: Scripts used to simulate and analyze realistic developmental ERP data reported in Section 3 of manuscript. 
 
